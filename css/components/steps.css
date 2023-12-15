@@ -1,0 +1,22 @@
+.stepss {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.steps {
+	align-items: center;
+	justify-content: space-between;
+	flex-basis: 150px;
+	flex-grow: 1 ;
+	margin: 15px;
+}
+
+.steps img {
+	width: 200px;
+	height: 200px;
+	margin-left: 25px;
+}
+
+.stepss h2 {
+	text-align: center;
+}

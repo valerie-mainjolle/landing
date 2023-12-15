@@ -1,0 +1,25 @@
+.explanations {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.explanations {
+	padding: 30px;
+	display: flex;
+	justify-content: space-between;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	flex-basis: 150px;
+	flex-grow: 1 ;
+	margin: 25px;
+	margin-top: 80px;
+}
+
+.explanations img {
+	width: 450px;
+	margin-right: 30px;
+}
+
+.explanation {
+	align-items: center;
+	margin: 0 auto;
+}

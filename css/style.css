@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant:wght@300&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/steps.css");
+@import url("components/card.css");
+@import url("components/explanation.css");
+@import url("components/centeredbutton.css");
+
+
+
+
+body {
+	font-family: 'Avenir';
+	font-size: 18px;
+	margin: 0px;
+	background-color: #fef9f4;
+}
+h1 {
+	font-family: 'Avenir';
+}
+
+h2 {
+	font-family: 'Avenir';
+	font-weight: bold;
+	font-display: center;
+	margin-top: 70px;
+	margin-bottom: 25px;
+	text-align: center;
+}
+
+h3 {
+	font-family: 'Avenir';
+	font-weight: bold;
+	font-display: center;
+	margin-top: 40px;
+}
+
+h6 {
+	font-family: 'Avenir';
+	font-weight: lighter;
+	font-display: center;
+	margin-top: 70px;
+	margin-bottom: 70px;
+	font-size: 25px;
+
+}
+a {
+	text-decoration: none;
+}
+
+ul {
+	margin-bottom: 50px;
+}
+
+li {
+	margin-bottom: 10px;
+}
+
+p {
+	font-weight: lighter;
+}

@@ -1,0 +1,12 @@
+.btn-green {
+	background-color: #2f3d21;
+	padding: 20px 25px;
+	color: white;
+	font: bold;
+	font-family: 'Avenir';
+	font-size: 15px;
+}
+
+.btn-green:hover {
+	background-color: #83A462;
+}

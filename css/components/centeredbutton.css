@@ -1,0 +1,20 @@
+#centered-button {
+	background-color: #2f3d21;
+	padding: 20px 25px;
+	color: white;
+	font: bold;
+	font-family: 'Avenir';
+	font-size: 15px;
+	margin-top: 50px;
+	display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-bottom: 80px;
+  }
+
+#centered-button:hover {
+	background-color: #83A462;
+}
+
